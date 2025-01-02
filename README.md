@@ -37,19 +37,12 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 **Currently working on**: Speech recognition and improving model accuracy.
-  
 - 🌱 **Currently learning**: Full-stack web development.
-  
 - 👯 **Looking to collaborate on**: AI projects in healthcare.
-  
 - 🤔 **Looking for help with**: Prioritizing AI solutions for cultural challenges.
-  
 - 💬 **Ask me about**: Machine learning, deep learning, AI in healthcare.
-  
-- 📫 **How to reach me**: [LinkedIn]([https://www.linkedin.com/in/abdullah-emad-/]).
-  
+- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/abdullah-emad-/).
 - 😄 **Pronouns**: He/Him
-  
 - ⚡ **Fun fact**: Love reading and DIY AgriTech projects!
 
 
