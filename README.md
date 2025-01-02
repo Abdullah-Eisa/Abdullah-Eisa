@@ -1,7 +1,7 @@
-## Hi there 👋
 
 <!--
 **Abdullah-Eisa/Abdullah-Eisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 # SA!, I'm Abdullah, a Machine Learning Engineer | Data Enthusiast | Software Engineer 👋🏼:
+## 💫 SA!, I'm Abdullah, a Machine Learning Engineer | Data Enthusiast | Software Engineer 👋:
 
 ✨ _Welcome to my GitHub!_ ✨
-
+<!--
 - 🔭 **Currently working on**: Developing advanced speech recognition models, exploring audio processing techniques, and applying deep learning to improve the accuracy and robustness of speech-based systems.
   
 - 🌱 **Currently learning**: Full-stack web development, with a focus on building robust web applications using modern frameworks and integrating AI models into real-world systems.
@@ -34,6 +34,24 @@ Here are some ideas to get you started:
 - 😄 **Pronouns**: He/Him
   
 - ⚡ **Fun fact**: I'm passionate about reading and building DIY projects at home – always on the lookout for new ways to apply technology in everyday life!
+-->
+
+- 🔭 **Currently working on**: Speech recognition and improving model accuracy.
+  
+- 🌱 **Currently learning**: Full-stack web development.
+  
+- 👯 **Looking to collaborate on**: AI projects in healthcare.
+  
+- 🤔 **Looking for help with**: Prioritizing AI solutions for cultural challenges.
+  
+- 💬 **Ask me about**: Machine learning, deep learning, AI in healthcare.
+  
+- 📫 **How to reach me**: [LinkedIn]([https://www.linkedin.com/in/abdullah-emad-/]).
+  
+- 😄 **Pronouns**: He/Him
+  
+- ⚡ **Fun fact**: Love reading and DIY AgriTech projects!
+
 
 
 ## 🌐 Socials:
