@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 💫 SA!, I'm Abdullah, a Machine Learning Engineer | Data Enthusiast | Software Engineer 👋:
+## 👋SA!, I'm Abdullah, a Machine Learning Engineer | Data Enthusiast | Software Engineer 💫:
 
 ✨ _Welcome to my GitHub!_ ✨
 <!--
