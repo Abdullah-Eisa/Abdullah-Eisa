@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 - ⚡ **Fun fact**: Love reading and DIY AgriTech projects!
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=Abdullah-Eisa)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdullah-emad-/) 
